@@ -1,8 +1,8 @@
-[![Header](https://raw.githubusercontent.com/makzz09/makzz09/main/readme_header.png "Header")]
+![Header](https://raw.githubusercontent.com/makzz09/makzz09/main/readme_header.png "Header")
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/makzz09/makzz09/main/wave.gif" width="30px" height="30px" />
 
-My name is MAK and I'm a Web Application/DevOps engineer. I'm from 🇮🇳 India. Currently utilizing NextJS for frontend and Serverless framework as backend.
+My name is **MAK** and I'm a Web Application/DevOps engineer. I'm from 🇮🇳 India. Currently utilizing NextJS for frontend and Serverless framework as backend.
 
 ## 🔧 Technologies & Tools
 
@@ -29,9 +29,7 @@ Familiar to Cloud Services:
 ---
 
 ![Top Langs](https://github-stats-makzz09.vercel.app/api/top-langs?layout=compact&theme=mak#gh-dark-mode-only)
-![Top Langs](https://github-stats-makzz09.vercel.app/api/top-langs?layout=compact&theme=mak_light#gh-light-mode-only)
 
 ![Github Stats](https://github-stats-makzz09.vercel.app/api?show_icons=true&theme=mak#gh-dark-mode-only)
-![Github Stats](https://github-stats-makzz09.vercel.app/api?show_icons=true&theme=mak_light#gh-light-mode-only)
 ![wave](https://camo.githubusercontent.com/aae0aa702f81a89467df2cfad10792896a5945451068e1e629e9075dfd938cb9/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572)
 
